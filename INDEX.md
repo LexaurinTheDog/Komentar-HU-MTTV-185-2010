@@ -1,0 +1,14 @@
+# TARTALOM — Kommentár a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvényhez
+
+- [00-bevezetes.md](00-bevezetes.md) — Bevezetés, alapadatok, módszer
+- [01-fejezet.md](01-fejezet.md) — 01. kommentárfejezet: A törvény területi és személyi hatálya, alapelvei, valamint a médiatartalmakra vonatkozó általános tartalmi követelmények (kiskorúvédelem, tájékoztatás, kizárólagos közvetítési jogok és rövid híradás, műsorkvóták, kereskedelmi közlemények, támogatás, termékmegjelenítés, reklám) (1. § – 33. §)
+- [02-fejezet.md](02-fejezet.md) — 02. kommentárfejezet: Reklámidő-korlátozások a lineáris médiaszolgáltatásban, a médiaszolgáltatók közzétételi és akadálymentesítési kötelezettségei, valamint a médiaszolgáltatási jogosultság és a sajtótermék-kiadás bejelentési rendszere (34. § – 47. §)
+- [03-fejezet.md](03-fejezet.md) — 03. kommentárfejezet: A lineáris médiaszolgáltatási jogosultság elnyerésére irányuló pályázati eljárás (48. § – 65. §)
+- [04-fejezet.md](04-fejezet.md) — 04. kommentárfejezet: A közösségi médiaszolgáltatás, a médiapiaci koncentráció korlátozása és a műsorterjesztés sokszínűségének, valamint a továbbítási kötelezettségnek a szabályai (66. § – 81. §)
+- [05-fejezet.md](05-fejezet.md) — 05. kommentárfejezet: A közszolgálati médiaszolgáltatás és médiatartalom-szolgáltatás alapelvei és céljai, a Független Közmédia Testület létrehozása, összetétele és működése, a Közszolgálati Charta és a Közszolgálati Tanács, valamint a közszolgálati médiaszolgáltatók (Magyar Rádió és Televízió Nonprofit Zrt., MTI Nonprofit Zrt.) jogállása, vezérigazgatóinak megválasztása és összeférhetetlenségi szabályai (82. § – 104. §)
+- [06-fejezet.md](06-fejezet.md) — 06. kommentárfejezet: A közszolgálati médiaszolgáltatók vezető tisztségviselői és finanszírozása, valamint a Nemzeti Média- és Hírközlési Hatóság szervezete és vezetői (105. § – 122. §)
+- [07-fejezet.md](07-fejezet.md) — 07. kommentárfejezet: A Médiatanács jogállása, választása, működése, feladatai és gazdálkodása, a Sajtóalap (123. § – 138. §)
+- [08-fejezet.md](08-fejezet.md) — 08. kommentárfejezet: A Média- és Hírközlési Biztos eljárása, valamint a Médiatanács és a Hivatal hatósági eljárására vonatkozó közös szabályok (139. § – 169. §)
+- [09-fejezet.md](09-fejezet.md) — 09. kommentárfejezet: A piacfelügyeleti, szakhatósági és jogvitás eljárások, a más tagállamban és harmadik országban letelepedett médiaszolgáltatókkal szembeni fellépés, valamint a Médiatanács és a Hivatal hatáskörei (170. § – 184. §)
+- [10-fejezet.md](10-fejezet.md) — 10. kommentárfejezet: A jogsértés esetén alkalmazható jogkövetkezmények rendszere, a műsorterjesztő és a közvetítő szolgáltató felelőssége, a társszabályozás a médiaigazgatásban, valamint az értelmező rendelkezések (185. § – 203. §)
+- [11-fejezet.md](11-fejezet.md) — 11. kommentárfejezet: Hatálybalépés, felhatalmazó és átmeneti rendelkezések, valamint az uniós jogharmonizációs záradék (204. § – 231. §)
